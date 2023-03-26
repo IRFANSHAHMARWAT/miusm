@@ -40,3 +40,6 @@ clipboard.on("success", function (o) {
 }), clipboard.on("error", function (o) {
     console.log(o)
 });
+window.addEventListener('load', function() {
+  alert('Visit for more free stuff www.miusm-tech.com');
+});
